@@ -1,0 +1,15 @@
+C:\Users\quantumbird\workspace\CSharp\RTOW\bin\Debug\net7.0\RTOW.exe
+C:\Users\quantumbird\workspace\CSharp\RTOW\bin\Debug\net7.0\RTOW.deps.json
+C:\Users\quantumbird\workspace\CSharp\RTOW\bin\Debug\net7.0\RTOW.runtimeconfig.json
+C:\Users\quantumbird\workspace\CSharp\RTOW\bin\Debug\net7.0\RTOW.dll
+C:\Users\quantumbird\workspace\CSharp\RTOW\bin\Debug\net7.0\RTOW.pdb
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.csproj.AssemblyReference.cache
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.AssemblyInfoInputs.cache
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.AssemblyInfo.cs
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.csproj.CoreCompileInputs.cache
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.dll
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\refint\RTOW.dll
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.pdb
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\RTOW.genruntimeconfig.cache
+C:\Users\quantumbird\workspace\CSharp\RTOW\obj\Debug\net7.0\ref\RTOW.dll
